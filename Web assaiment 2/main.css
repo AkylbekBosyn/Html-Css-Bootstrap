@@ -1,0 +1,49 @@
+.head{
+    display: flex;
+}
+.kaz{
+    display: flex;
+}
+
+
+.link:hover{
+    color: crimson;
+}
+.lii:hover{
+    color:crimson
+}
+.lai:hover{
+    color:crimson
+}
+.lah:hover{
+    color:crimson
+}
+.last:hover{
+    color:crimson
+}
+.lass:hover{
+    color:crimson
+}
+.lasf:hover{ 
+    color:crimson      
+}
+.imgg{
+    margin-left: 400px;
+    padding-bottom: 500px;
+
+}
+
+body{
+    background-color: rgb(160, 134, 85);
+}
+.Akyl{
+    width: 400px;
+    height: 200px;
+    margin: auto;
+}
+.AK-47{
+    color: rgb(109, 11, 11);
+}
+.Mk{
+    color: black;
+}
